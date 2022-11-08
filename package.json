@@ -1,0 +1,30 @@
+{
+  "name": "jenkins_demo",
+  "version": "1.0.0",
+  "description": "playwright tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDary/Jenkins_demo.git"
+  },
+  "keywords": [
+    "playwright",
+    "jenkins"
+  ],
+  "author": "Darya Ruban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDary/Jenkins_demo/issues"
+  },
+  "homepage": "https://github.com/RDary/Jenkins_demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.42.1",
+    "@typescript-eslint/parser": "^5.42.1",
+    "eslint": "^8.27.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
