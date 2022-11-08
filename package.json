@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "playwright tests",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "playwright-test": "playwright test --config=./playwright/configs/playwright.config.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RDary/Jenkins_demo.git"
